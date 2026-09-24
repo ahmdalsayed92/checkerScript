@@ -158,7 +158,7 @@
     const icon = document.createElement("svg");
     const btnText = document.createElement("span");
     icon.innerHTML = iconSVG;
-    btnText.innerText = "Scan For Accessibility";
+    btnText.innerText = "Accessibility Scan";
 
     checkerButton.appendChild(icon);
     checkerButton.appendChild(btnText);
