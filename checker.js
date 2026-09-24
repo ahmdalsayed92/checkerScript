@@ -179,7 +179,7 @@
       position: fixed;
       bottom: 20px;
       right: 20px;
-      width: 266px;
+      gap: 12px;
       height: 52px;
       border-radius: 8px;
       padding: 12px 24px;
